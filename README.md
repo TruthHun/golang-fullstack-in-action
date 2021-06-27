@@ -5,16 +5,15 @@ Golang 全栈开发实战，前后端分离，[书栈网（https://www.bookstack
 
 ## 技术栈
 
+主要技术栈如下：
+
 - Golang
     - fiber
     - xorm
-    - viper
-    - cobra
 - Vue
     - Nuxt
     - ElementUI
     - uniapp
-    - vuex
 - 数据库：MySQL
 - IDE：VSCODE
 
