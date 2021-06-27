@@ -21,4 +21,4 @@ Golang 全栈开发实战，前后端分离，[书栈网（https://www.bookstack
 ## 项目代码仓库
 
 - Gitee: https://gitee.com/truthhun/bookhub
-- GitHUb: https://github.com/TruthHub/bookhub
+- GitHUb: https://github.com/TruthHun/bookhub
